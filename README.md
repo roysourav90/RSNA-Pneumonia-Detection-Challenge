@@ -1,1 +1,1 @@
-# RSNA-Pneumonia-Detection-Challenge
+# Skin Cancer Classification
